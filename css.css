@@ -1,0 +1,13 @@
+#myContainer{
+width:400px;
+height:400px;
+position:relative;
+background:rgb(21,215,236);
+}
+
+#myAnimation{
+width:100px;
+height:100px;
+position:absolute;
+background-color:red;
+}
